@@ -1,6 +1,6 @@
 .Home {
 	padding: 0;
-	height: 220vh;
+	
 }
 
 .img {
@@ -71,6 +71,9 @@
 	}
 	.textOne{
 		margin-top: 10px;
+	}
+	.Home{
+		height: 220vh;
 	}
 
 }
