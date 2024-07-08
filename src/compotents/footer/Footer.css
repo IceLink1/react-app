@@ -1,0 +1,7 @@
+.footer{
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	color: aqua;
+	background: linear-gradient(270deg, #00009c 0%, #000000 100%);
+}

@@ -1,0 +1,8 @@
+.select{
+	height: 30px;
+	width: 150px;
+	border-radius: 5px;
+	border: 3px solid aqua;
+	background: none;
+	color: aqua;
+}
